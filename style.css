@@ -1,0 +1,32 @@
+h1 {
+   background-position-x: inherit;
+    font-family: monospace;
+    transition: linear  ;
+}
+
+p {
+    font-size: 18px;
+}
+
+    .red-text {
+        color:rgb(3, 15, 15);
+        background-position: 20%;
+}
+ 
+    background {
+        background-color: burlywood;
+    }
+    body {
+        background-color: burlywood;
+    }
+    
+    .smaller-image {
+        width: 485px;
+        
+    }
+
+    hover: .smaller-image {
+        animation: ease-in-ease-out;
+        transition::after;
+    }
+
